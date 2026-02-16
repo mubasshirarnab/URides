@@ -321,10 +321,6 @@ This project is developed for educational purposes. Please refer to the license 
 - **Ahasan Arafath** - Backend Developer
 - **Noman Hossain** - Frontend Developer
 
-### Contact Information
-- **Email**: uridesoficials@gmail.com
-- **Support**: refund@example.com
-- **Location**: Madanee Avenue, United City
 
 ## 🔄 Version History
 
